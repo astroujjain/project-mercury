@@ -1,7 +1,0 @@
-_pycache_/
-*.pyc
-venv/
-.env
-output/
-*.sqlite3
-.DS_Store
